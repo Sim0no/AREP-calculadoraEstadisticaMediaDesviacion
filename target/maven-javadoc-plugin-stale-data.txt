@@ -2,23 +2,23 @@ cmd.exe
 /X
 /C
 ""C:\Program Files\Java\jdk-13.0.2\bin\javadoc.exe" @options @packages"
-C:\Users\USER\Downloads\calculadora-AREP\target\site\testapidocs\allclasses-index.html = 1597379842371
-C:\Users\USER\Downloads\calculadora-AREP\target\site\testapidocs\allpackages-index.html = 1597379842390
-C:\Users\USER\Downloads\calculadora-AREP\target\site\testapidocs\constant-values.html = 1597379842172
-C:\Users\USER\Downloads\calculadora-AREP\target\site\testapidocs\deprecated-list.html = 1597379842258
-C:\Users\USER\Downloads\calculadora-AREP\target\site\testapidocs\element-list = 1597379842111
-C:\Users\USER\Downloads\calculadora-AREP\target\site\testapidocs\help-doc.html = 1597379842423
-C:\Users\USER\Downloads\calculadora-AREP\target\site\testapidocs\index-all.html = 1597379842340
-C:\Users\USER\Downloads\calculadora-AREP\target\site\testapidocs\index.html = 1597379842408
-C:\Users\USER\Downloads\calculadora-AREP\target\site\testapidocs\member-search-index.js = 1597379842322
-C:\Users\USER\Downloads\calculadora-AREP\target\site\testapidocs\member-search-index.zip = 1597379842330
-C:\Users\USER\Downloads\calculadora-AREP\target\site\testapidocs\options = 1597379840566
-C:\Users\USER\Downloads\calculadora-AREP\target\site\testapidocs\overview-tree.html = 1597379842234
-C:\Users\USER\Downloads\calculadora-AREP\target\site\testapidocs\package-search-index.js = 1597379842286
-C:\Users\USER\Downloads\calculadora-AREP\target\site\testapidocs\package-search-index.zip = 1597379842296
-C:\Users\USER\Downloads\calculadora-AREP\target\site\testapidocs\packages = 1597379840566
-C:\Users\USER\Downloads\calculadora-AREP\target\site\testapidocs\script.js = 1597379842452
-C:\Users\USER\Downloads\calculadora-AREP\target\site\testapidocs\search.js = 1597379842456
-C:\Users\USER\Downloads\calculadora-AREP\target\site\testapidocs\stylesheet.css = 1597379842442
-C:\Users\USER\Downloads\calculadora-AREP\target\site\testapidocs\type-search-index.js = 1597379842305
-C:\Users\USER\Downloads\calculadora-AREP\target\site\testapidocs\type-search-index.zip = 1597379842314
+C:\Users\USER\Desktop\AREP\AREP-calculadoraEstadisticaMediaVarianza\target\site\testapidocs\allclasses-index.html = 1597386524926
+C:\Users\USER\Desktop\AREP\AREP-calculadoraEstadisticaMediaVarianza\target\site\testapidocs\allpackages-index.html = 1597386524941
+C:\Users\USER\Desktop\AREP\AREP-calculadoraEstadisticaMediaVarianza\target\site\testapidocs\constant-values.html = 1597386524676
+C:\Users\USER\Desktop\AREP\AREP-calculadoraEstadisticaMediaVarianza\target\site\testapidocs\deprecated-list.html = 1597386524766
+C:\Users\USER\Desktop\AREP\AREP-calculadoraEstadisticaMediaVarianza\target\site\testapidocs\element-list = 1597386524615
+C:\Users\USER\Desktop\AREP\AREP-calculadoraEstadisticaMediaVarianza\target\site\testapidocs\help-doc.html = 1597386524970
+C:\Users\USER\Desktop\AREP\AREP-calculadoraEstadisticaMediaVarianza\target\site\testapidocs\index-all.html = 1597386524908
+C:\Users\USER\Desktop\AREP\AREP-calculadoraEstadisticaMediaVarianza\target\site\testapidocs\index.html = 1597386524955
+C:\Users\USER\Desktop\AREP\AREP-calculadoraEstadisticaMediaVarianza\target\site\testapidocs\member-search-index.js = 1597386524898
+C:\Users\USER\Desktop\AREP\AREP-calculadoraEstadisticaMediaVarianza\target\site\testapidocs\member-search-index.zip = 1597386524901
+C:\Users\USER\Desktop\AREP\AREP-calculadoraEstadisticaMediaVarianza\target\site\testapidocs\options = 1597386522978
+C:\Users\USER\Desktop\AREP\AREP-calculadoraEstadisticaMediaVarianza\target\site\testapidocs\overview-tree.html = 1597386524743
+C:\Users\USER\Desktop\AREP\AREP-calculadoraEstadisticaMediaVarianza\target\site\testapidocs\package-search-index.js = 1597386524879
+C:\Users\USER\Desktop\AREP\AREP-calculadoraEstadisticaMediaVarianza\target\site\testapidocs\package-search-index.zip = 1597386524883
+C:\Users\USER\Desktop\AREP\AREP-calculadoraEstadisticaMediaVarianza\target\site\testapidocs\packages = 1597386522979
+C:\Users\USER\Desktop\AREP\AREP-calculadoraEstadisticaMediaVarianza\target\site\testapidocs\script.js = 1597386524996
+C:\Users\USER\Desktop\AREP\AREP-calculadoraEstadisticaMediaVarianza\target\site\testapidocs\search.js = 1597386525001
+C:\Users\USER\Desktop\AREP\AREP-calculadoraEstadisticaMediaVarianza\target\site\testapidocs\stylesheet.css = 1597386524988
+C:\Users\USER\Desktop\AREP\AREP-calculadoraEstadisticaMediaVarianza\target\site\testapidocs\type-search-index.js = 1597386524890
+C:\Users\USER\Desktop\AREP\AREP-calculadoraEstadisticaMediaVarianza\target\site\testapidocs\type-search-index.zip = 1597386524892
