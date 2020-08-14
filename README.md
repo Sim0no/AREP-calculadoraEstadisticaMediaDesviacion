@@ -24,7 +24,7 @@ In this project we made a calculator that helps us to calculate the mean and the
  
 
   
-   ###Tests
+   ### Tests
    
    We can run the tests with the following command:
    
