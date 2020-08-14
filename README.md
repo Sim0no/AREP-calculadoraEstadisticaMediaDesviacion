@@ -24,17 +24,17 @@ In this project we made a calculator that helps us to calculate the mean and the
  
 
   
-   ###Tests
+   ### Tests
    
-    We can run the tests with the following command:
+   We can run the tests with the following command:
    
      `mnv test`
       
-     After running the tests we can appreciate the following result:
+   After running the tests we can appreciate the following result:
      
-     ![test1](img/tests.png)
+   ![test1](img/tests.png)
      
-     ![test2](img/tests1.png)
+   ![test2](img/tests1.png)
 
   ### Setting up
   
