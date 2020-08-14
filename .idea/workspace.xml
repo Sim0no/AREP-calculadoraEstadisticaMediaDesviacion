@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="46f99482-87b1-473a-937b-9d35377eda77" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1fwFPLlWocpZZHWcs10VQgNgRFA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/ARSW revenge/ARSW-LAB-1/BLACKLISTSEARCH" />
+  </component>
+  <component name="RunManager" selected="JUnit.AppTest">
+    <configuration name="AppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="calculadora-AREP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.escuelaing.arep.calculadora.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.escuelaing.arep.calculadora" />
+      <option name="MAIN_CLASS_NAME" value="edu.escuelaing.arep.calculadora.AppTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.shouldCalculateMean" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="calculadora-AREP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.escuelaing.arep.calculadora.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.escuelaing.arep.calculadora" />
+      <option name="MAIN_CLASS_NAME" value="edu.escuelaing.arep.calculadora.AppTest" />
+      <option name="METHOD_NAME" value="shouldCalculateMean" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.shouldCalculateStandardDeviation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="calculadora-AREP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.escuelaing.arep.calculadora.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.escuelaing.arep.calculadora" />
+      <option name="MAIN_CLASS_NAME" value="edu.escuelaing.arep.calculadora.AppTest" />
+      <option name="METHOD_NAME" value="shouldCalculateStandardDeviation" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.shouldNotCalculateMean" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="calculadora-AREP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.escuelaing.arep.calculadora.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.escuelaing.arep.calculadora" />
+      <option name="MAIN_CLASS_NAME" value="edu.escuelaing.arep.calculadora.AppTest" />
+      <option name="METHOD_NAME" value="shouldNotCalculateMean" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.shouldNotCalculateStandardDeviation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="calculadora-AREP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.escuelaing.arep.calculadora.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.escuelaing.arep.calculadora" />
+      <option name="MAIN_CLASS_NAME" value="edu.escuelaing.arep.calculadora.AppTest" />
+      <option name="METHOD_NAME" value="shouldNotCalculateStandardDeviation" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.AppTest.shouldCalculateMean" />
+      <item itemvalue="JUnit.AppTest.shouldNotCalculateMean" />
+      <item itemvalue="JUnit.AppTest.shouldCalculateStandardDeviation" />
+      <item itemvalue="JUnit.AppTest.shouldNotCalculateStandardDeviation" />
+      <item itemvalue="JUnit.AppTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AppTest" />
+        <item itemvalue="JUnit.AppTest.shouldNotCalculateStandardDeviation" />
+        <item itemvalue="JUnit.AppTest.shouldCalculateStandardDeviation" />
+        <item itemvalue="JUnit.AppTest.shouldCalculateMean" />
+        <item itemvalue="JUnit.AppTest.shouldNotCalculateMean" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46f99482-87b1-473a-937b-9d35377eda77" name="Default Changelist" comment="" />
+      <created>1597121222477</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597121222477</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="272" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597287000731">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="272" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1597287000731" />
+    <state x="488" y="84" key="#com.intellij.ide.util.MemberChooser" timestamp="1597301997357">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="84" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1597301997357" />
+    <state x="413" y="115" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1597331685258">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="115" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1366.728@0.0.1366.728" timestamp="1597331685258" />
+    <state x="429" y="66" width="440" height="478" key="FileChooserDialogImpl" timestamp="1597369027922">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="429" y="66" width="440" height="478" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597369027922" />
+    <state width="1323" height="232" key="GridCell.Tab.0.bottom" timestamp="1597375864205">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="232" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597375864205" />
+    <state width="1323" height="232" key="GridCell.Tab.0.center" timestamp="1597375864205">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="232" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597375864205" />
+    <state width="1323" height="232" key="GridCell.Tab.0.left" timestamp="1597375864205">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="232" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597375864205" />
+    <state width="1323" height="232" key="GridCell.Tab.0.right" timestamp="1597375864205">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="232" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597375864205" />
+    <state width="1306" height="220" key="GridCell.Tab.1.bottom" timestamp="1597373013220">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="220" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597373013220" />
+    <state width="1306" height="220" key="GridCell.Tab.1.center" timestamp="1597373013220">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="220" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1597373013220" />
+    <state width="1306" height="220" key="GridCell.Tab.1.left" timestamp="1597373013220">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="220" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1597373013219" />
+    <state width="1306" height="220" key="GridCell.Tab.1.right" timestamp="1597373013220">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="220" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1597373013220" />
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1597368641394">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1597368641394" />
+    <state x="391" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1597332397408">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1597332397408" />
+  </component>
+</project>
