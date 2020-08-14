@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46f99482-87b1-473a-937b-9d35377eda77" name="Default Changelist" comment="" />
+    <list default="true" id="46f99482-87b1-473a-937b-9d35377eda77" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/escuelaing/arep/calculadora/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/escuelaing/arep/calculadora/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/calculadora-AREP-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/calculadora-AREP-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/escuelaing/arep/calculadora/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/escuelaing/arep/calculadora/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/escuelaing/arep/calculadora/dataStructures/LinkedList$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/escuelaing/arep/calculadora/dataStructures/LinkedList$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/escuelaing/arep/calculadora/dataStructures/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/escuelaing/arep/calculadora/dataStructures/LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/escuelaing/arep/calculadora/implementation/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/escuelaing/arep/calculadora/implementation/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-edu.escuelaing.arep.calculadora.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-edu.escuelaing.arep.calculadora.AppTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/edu.escuelaing.arep.calculadora.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/edu.escuelaing.arep.calculadora.AppTest.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +35,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
@@ -32,9 +56,23 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/ARSW revenge/ARSW-LAB-1/BLACKLISTSEARCH" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="JUnit.AppTest">
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.escuelaing.arep.calculadora.App" />
+      <module name="calculadora-AREP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.escuelaing.arep.calculadora.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="calculadora-AREP" />
       <extension name="coverage">
@@ -82,22 +120,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppTest.shouldNotCalculateMean" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="calculadora-AREP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.escuelaing.arep.calculadora.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="edu.escuelaing.arep.calculadora" />
-      <option name="MAIN_CLASS_NAME" value="edu.escuelaing.arep.calculadora.AppTest" />
-      <option name="METHOD_NAME" value="shouldNotCalculateMean" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="AppTest.shouldNotCalculateStandardDeviation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="calculadora-AREP" />
       <extension name="coverage">
@@ -115,19 +137,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.App" />
       <item itemvalue="JUnit.AppTest.shouldCalculateMean" />
-      <item itemvalue="JUnit.AppTest.shouldNotCalculateMean" />
       <item itemvalue="JUnit.AppTest.shouldCalculateStandardDeviation" />
       <item itemvalue="JUnit.AppTest.shouldNotCalculateStandardDeviation" />
       <item itemvalue="JUnit.AppTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App" />
         <item itemvalue="JUnit.AppTest" />
         <item itemvalue="JUnit.AppTest.shouldNotCalculateStandardDeviation" />
         <item itemvalue="JUnit.AppTest.shouldCalculateStandardDeviation" />
         <item itemvalue="JUnit.AppTest.shouldCalculateMean" />
-        <item itemvalue="JUnit.AppTest.shouldNotCalculateMean" />
       </list>
     </recent_temporary>
   </component>
@@ -161,22 +183,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="429" y="66" width="440" height="478" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597369027922" />
-    <state width="1323" height="232" key="GridCell.Tab.0.bottom" timestamp="1597375864205">
+    <state width="1323" height="232" key="GridCell.Tab.0.bottom" timestamp="1597383832859">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="232" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597375864205" />
-    <state width="1323" height="232" key="GridCell.Tab.0.center" timestamp="1597375864205">
+    <state width="1323" height="232" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597383832859" />
+    <state width="1323" height="232" key="GridCell.Tab.0.center" timestamp="1597383832859">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="232" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597375864205" />
-    <state width="1323" height="232" key="GridCell.Tab.0.left" timestamp="1597375864205">
+    <state width="1323" height="232" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597383832859" />
+    <state width="1323" height="232" key="GridCell.Tab.0.left" timestamp="1597383832859">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="232" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597375864205" />
-    <state width="1323" height="232" key="GridCell.Tab.0.right" timestamp="1597375864205">
+    <state width="1323" height="232" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597383832859" />
+    <state width="1323" height="232" key="GridCell.Tab.0.right" timestamp="1597383832859">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="232" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597375864205" />
+    <state width="1323" height="232" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597383832859" />
     <state width="1306" height="220" key="GridCell.Tab.1.bottom" timestamp="1597373013220">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
